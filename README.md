@@ -6,6 +6,8 @@ During competitive programming, we need to find the best algorithm to solve a qu
 
 So I created this simple bot in which algorithms(indirectly I mean code snippets) can be stored whenever I come across a good implementation and can be retrieved whenever necessary. 
 
+Bot is currently hosted in replit for personal use.
+
 ## Supported Functionalities
 
 Add, 
